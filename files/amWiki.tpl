@@ -154,7 +154,7 @@
         <footer>
             <!-- 签名 -->
             <div class="signature">Powered by
-                <a href="https://github.com/TevinLi/amWiki" target="_blank">amWiki</a>
+                <a href="https://github.com/magic-moon/amWiki" target="_blank">amWiki</a>
             </div>
         </footer>
         <!-- mounts -->
